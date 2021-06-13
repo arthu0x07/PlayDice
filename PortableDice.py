@@ -65,6 +65,7 @@ def Dice2():
     
     tryagain();
 
+    
 
 def Dice4():
     Sorted = random.randint(1,4);
@@ -77,6 +78,7 @@ def Dice4():
 
     tryagain();
 
+    
 
 def Dice6():
     Sorted = random.randint(1,6);
@@ -89,6 +91,7 @@ def Dice6():
     
     tryagain();
 
+    
 
 def Dice20():
     Sorted = random.randint(1,20);
